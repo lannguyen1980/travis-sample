@@ -10,7 +10,7 @@ namespace TravisSample
     {
         public int Add(int x, int y)
         {
-            int i = "";
+            int i = 0;
             return x + y;
         }
 
